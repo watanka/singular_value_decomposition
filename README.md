@@ -3,7 +3,7 @@
 
 |original|rank=1|rank=5|rank=20|rank=50|
 |:-:|:-:|:-:|:-:|:-:|
-|![original](flower.jpg)|![rank=1](flower_rank_approximation_rank=1.jpg)|![rank=5](flower_rank_approximation_rank=5.jpg)|![rank=20](flower_rank_approximation_rank=20.jpg)|![rank=50](flower_rank_approximation_rank=50.jpg)|
+|![original](img/flower.jpg)|![rank=1](img/flower_rank_approximation_rank=1.jpg)|![rank=5](img/flower_rank_approximation_rank=5.jpg)|![rank=20](img/flower_rank_approximation_rank=20.jpg)|![rank=50](img/flower_rank_approximation_rank=50.jpg)|
 
 
 
