@@ -5,7 +5,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |![original](img/flower.jpg)|![rank=1](img/flower_rank_approximation_rank=1.jpg)|![rank=5](img/flower_rank_approximation_rank=5.jpg)|![rank=20](img/flower_rank_approximation_rank=20.jpg)|![rank=50](img/flower_rank_approximation_rank=50.jpg)|
 
-**reference**
+**reference**  
 https://www.youtube.com/watch?v=DG7YTlGnCEo  
 https://www.youtube.com/watch?v=vSczTbgc8Rc&t=605s
 
