@@ -9,8 +9,9 @@
 
 - svd를 위해 사용할 함수는 np.linalg.svd 함수. 
 - A = U * Sigma * V^T. 
-- U는 A와 A^T를 곱했을 때 나오는 left singular vector이다. 
-- V^T는 A^T와 A를 곱했을 때 나오는 right singular vector이다. 두 singular vector 모두 symmetric하다.
+- U는 A와 A^T를 곱했을 때 나오는 매트릭스의 eigenvector 행렬인 left singular vector이다. 
+- V^T는 A^T와 A를 곱했을 때 나오는 매트릭스의 eigenvector 행렬인 right singular vector이다. 두 singular vector 모두 symmetric하다.
+- 두 singular vector 모두 같은 eigenvalue를 가지며, Sigma는 이 eigenvalue의 루트값이다. 
 - Sigma는 eigenvector들로 따로 차원없이 내림차순 정렬되어있다.
 - symmetric한 매트릭스는 eigenvector들 간 orthogonal하고, 원래 값을 rotation to eigenbasis, scale, rotation back to basis로 이루어진 SVD가 성립할 수 있는 이유가 된다.
 - SVD는 어떠한 matrix에서도 적용될 수 있다는 점에서, symmetric한 매트릭스만 적용 가능한 Spectral Decomposition의 좀 더 general한 케이스라고 할 수 있다.
