@@ -1,4 +1,4 @@
-## Singular Value Decomposition
+## Image Compression using Singular Value Decomposition
 ---
 
 |original|rank=1|rank=5|rank=20|rank=50|
